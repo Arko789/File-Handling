@@ -1,3 +1,3 @@
-with open ("new.txt", "r") as f:
+with open ("E.txt", "r") as f:
    x=f.read()
 print(x)

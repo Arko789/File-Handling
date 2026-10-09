@@ -14,7 +14,7 @@ write_lines()
 
 def write_lines():
     n=int(input("Enter number of lines: "))
-    with open("new.txt","w") as f1 :
+    with open("E.txt","w") as f1 :
         li=[ ]
         for i in range(n):
             st=input("Enter lines: ")
